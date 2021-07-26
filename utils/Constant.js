@@ -6,7 +6,7 @@ module.exports ={
   EMPLOYEE_CREATE_VALIDATE:"EmployeeId cannot be empty or Invalid request",
   EMPLOYEE_UPDATE_SUCESS:"Employee updated sucessfully",
   EMPLOYEE_DELETE_SUCESS:"Employee deleted sucessfully",
-  FILEPATH:'logs/server-%DATE%.log',
+  FILEPATH:"logs/server-%DATE%.log",
   ERROR_FILEPATH:"logs/server.error-%DATE%.log",
   LOGGER_LEVEL_DEBUG:"debug",
   LOGGER_LEVEL_ERROR:"error",
