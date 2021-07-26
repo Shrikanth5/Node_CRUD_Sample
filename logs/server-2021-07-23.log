@@ -1,0 +1,20 @@
+2021-07-23 T 18:25:49:info:Server is listening on : 3000
+2021-07-23 T 18:25:49:info:Successfully connected to the database
+2021-07-23 T 18:26:10:info:Incoming API URL ::: /api/employee
+2021-07-23 T 18:26:10:info:Incoming Request type ::: GET
+2021-07-23 T 18:26:10:info:Get employee details
+2021-07-23 T 18:27:43:info:Incoming API URL ::: /api/addemployee
+2021-07-23 T 18:27:43:info:Incoming Request type ::: POST
+2021-07-23 T 18:27:43:info:Request body ::: {"firstname":"employee ","lastname":"E","user_name":"employeeE","empId":5,"address":"chennai","phonenumber":7845673452,"gender":"Female"}
+2021-07-23 T 18:27:43:error:Error while adding data ::: employees validation failed: user_name: Path `user_name` is required.
+2021-07-23 T 18:36:29:info:Server is listening on : 3000
+2021-07-23 T 18:36:29:info:Successfully connected to the database
+2021-07-23 T 18:36:36:info:Incoming API URL ::: /api/employee
+2021-07-23 T 18:36:36:info:Incoming Request type ::: GET
+2021-07-23 T 18:36:36:info:Get employee details
+2021-07-23 T 18:36:43:info:Incoming API URL ::: /api/addemployee
+2021-07-23 T 18:36:43:info:Incoming Request type ::: POST
+2021-07-23 T 18:36:43:info: Add Employee details of firstname,lastname,username,gender,address,phonenumber
+2021-07-23 T 18:36:43:error:Error while adding data ::: employees validation failed: user_name: Path `user_name` is required.
+2021-07-23 T 19:58:22:info:Server is listening on : 3000
+2021-07-23 T 19:58:22:info:Successfully connected to the database

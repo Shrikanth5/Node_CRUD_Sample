@@ -1,0 +1,669 @@
+info: Jul-23-2021 12:07:38: 	Server is listening on 3000
+info: Jul-23-2021 12:11:07: 	Server is listening on 3000
+info: Jul-23-2021 12:29:47: 	Server is listening on 3000
+info: 2021-07-23T07:03:02.263Z: 	Server is listening on 3000
+info: 2021-07-23T07:03:57.426Z: 	Server is listening on 3000
+info: 2021-07-23T07:07:38.637Z: 	Server is listening on 3000
+info: 2021-07-23T07:08:37.668Z: 	Server is listening on 3000
+info: 2021-07-23T07:12:45.594Z: 	Server is listening on 3000
+info: 2021-07-23T07:13:22.574Z: 	Server is listening on 3000
+info: 2021-07-23T07:13:25.830Z: 	 Incoming Request typeGET
+info: 2021-07-23T07:19:51.848Z: 	Server is listening on 3000
+info: 2021-07-23T07:20:17.869Z: 	Server is listening on 3000
+info: 2021-07-23T07:20:28.732Z: 	 Incoming Request typeGET
+info: 2021-07-23T07:23:06.844Z: 	Server is listening on 3000
+info: 2021-07-23T07:23:12.238Z: 	Incoming Request type GET
+info: 2021-07-23T07:26:20.817Z: 	Server is listening on 3000
+info: 2021-07-23T07:27:39.240Z: 	Server is listening on 3000
+info: 2021-07-23T07:27:55.776Z: 	Server is listening on 3000
+info: 2021-07-23T07:29:28.222Z: 	Server is listening on 3000
+info: 2021-07-23T07:31:11.482Z: 	Server is listening on 3000
+info: 2021-07-23T07:31:15.257Z: 	[object Object]
+info: 2021-07-23T07:31:15.259Z: 	Incoming Request type GET
+info: 2021-07-23T07:33:56.938Z: 	Server is listening on 3000
+info: 2021-07-23T07:34:04.722Z: 	Incoming Request type GET
+info: 2021-07-23T07:37:51.031Z: 	Server is listening on : 3000
+info: 2021-07-23T07:37:58.878Z: 	Incoming API URL ::: /api/employee
+info: 2021-07-23T07:37:58.879Z: 	Incoming Request type ::: GET
+info: 2021-07-23T07:53:34.908Z: 	Server is listening on : 3000
+info: 2021-07-23T07:53:41.274Z: 	Incoming API URL ::: /api/employee
+info: 2021-07-23T07:53:41.275Z: 	Incoming Request type ::: GET
+info: 2021-07-23T07:53:41.278Z: 	Inside the employee controller file
+info: 2021-07-23T07:53:41.280Z: 	Inside the Employee service file
+info: 2021-07-23T07:53:41.281Z: 	Retriving the employee details from database
+info: 2021-07-23T07:53:41.334Z: 	Employee data ::: { is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 }
+info: 2021-07-23T07:53:41.343Z: 	Response received from service file
+info: 2021-07-23T07:53:41.345Z: 	final response :::{ is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 }
+info: 2021-07-23T07:55:45.082Z: 	Server is listening on : 3000
+info: 2021-07-23T07:55:52.077Z: 	Incoming API URL ::: /api/employee
+info: 2021-07-23T07:55:52.078Z: 	Incoming Request type ::: GET
+info: 2021-07-23T07:55:52.081Z: 	Inside the employee controller file
+info: 2021-07-23T07:55:52.082Z: 	Inside the Employee service file
+info: 2021-07-23T07:55:52.083Z: 	Retriving the employee details from database
+info: 2021-07-23T07:55:52.140Z: 	Employee data ::: { is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 }
+info: 2021-07-23T07:55:52.147Z: 	Response received from service file
+info: 2021-07-23T08:09:57.224Z: 	MongoDB Schema ::: [object Object]
+info: 2021-07-23T08:09:57.265Z: 	Server is listening on : 3000
+info: 2021-07-23T08:15:21.063Z: 	MongoDB Schema ::: {"obj":{"user_name":{"unique":true,"required":true},"is_deleted":{"default":false}},"paths":{"first_name":{"enumValues":[],"regExp":null,"path":"first_name","instance":"String","validators":[],"getters":[],"setters":[],"_presplitPath":["first_name"],"options":{},"_index":null},"last_name":{"enumValues":[],"regExp":null,"path":"last_name","instance":"String","validators":[],"getters":[],"setters":[],"_presplitPath":["last_name"],"options":{},"_index":null},"user_name":{"enumValues":[],"regExp":null,"path":"user_name","instance":"String","validators":[{"message":"Path `{PATH}` is required.","type":"required"}],"getters":[],"setters":[],"_presplitPath":["user_name"],"options":{"unique":true,"required":true},"_index":{"unique":true},"isRequired":true,"originalRequiredValue":true},"emp_id":{"path":"emp_id","instance":"Number","validators":[],"getters":[],"setters":[],"_presplitPath":["emp_id"],"options":{},"_index":null},"phone_number":{"path":"phone_number","instance":"Number","validators":[],"getters":[],"setters":[],"_presplitPath":["phone_number"],"options":{},"_index":null},"address":{"enumValues":[],"regExp":null,"path":"address","instance":"String","validators":[],"getters":[],"setters":[],"_presplitPath":["address"],"options":{},"_index":null},"gender":{"enumValues":[],"regExp":null,"path":"gender","instance":"String","validators":[],"getters":[],"setters":[],"_presplitPath":["gender"],"options":{},"_index":null},"is_deleted":{"path":"is_deleted","instance":"Boolean","validators":[],"getters":[],"setters":[],"_presplitPath":["is_deleted"],"options":{"default":false},"_index":null,"defaultValue":false},"_id":{"path":"_id","instance":"ObjectID","validators":[],"getters":[],"setters":[null],"_presplitPath":["_id"],"options":{"auto":true,"type":"ObjectId"},"_index":null}},"aliases":{},"subpaths":{},"virtuals":{},"singleNestedPaths":{},"nested":{},"inherits":{},"callQueue":[],"_indexes":[],"methods":{},"methodOptions":{},"statics":{},"tree":{"user_name":{"unique":true,"required":true},"is_deleted":{"default":false},"_id":{"auto":true,"type":"ObjectId"}},"query":{},"childSchemas":[],"plugins":[],"$id":1,"mapPaths":[],"s":{"hooks":{"_pres":{},"_posts":{}}},"_userProvidedOptions":{},"options":{"typePojoToMixed":true,"typeKey":"type","id":true,"noVirtualId":false,"_id":true,"noId":false,"validateBeforeSave":true,"read":null,"shardKey":null,"autoIndex":null,"minimize":true,"discriminatorKey":"__t","optimisticConcurrency":false,"versionKey":"__v","capped":false,"bufferCommands":true,"strictQuery":false,"strict":true}}
+info: 2021-07-23T08:15:21.107Z: 	Server is listening on : 3000
+error: 2021-07-23T08:16:26.139Z: 	MongoDB Schema ::: {"obj":{"user_name":{"unique":true,"required":true},"is_deleted":{"default":false}},"paths":{"first_name":{"enumValues":[],"regExp":null,"path":"first_name","instance":"String","validators":[],"getters":[],"setters":[],"_presplitPath":["first_name"],"options":{},"_index":null},"last_name":{"enumValues":[],"regExp":null,"path":"last_name","instance":"String","validators":[],"getters":[],"setters":[],"_presplitPath":["last_name"],"options":{},"_index":null},"user_name":{"enumValues":[],"regExp":null,"path":"user_name","instance":"String","validators":[{"message":"Path `{PATH}` is required.","type":"required"}],"getters":[],"setters":[],"_presplitPath":["user_name"],"options":{"unique":true,"required":true},"_index":{"unique":true},"isRequired":true,"originalRequiredValue":true},"emp_id":{"path":"emp_id","instance":"Number","validators":[],"getters":[],"setters":[],"_presplitPath":["emp_id"],"options":{},"_index":null},"phone_number":{"path":"phone_number","instance":"Number","validators":[],"getters":[],"setters":[],"_presplitPath":["phone_number"],"options":{},"_index":null},"address":{"enumValues":[],"regExp":null,"path":"address","instance":"String","validators":[],"getters":[],"setters":[],"_presplitPath":["address"],"options":{},"_index":null},"gender":{"enumValues":[],"regExp":null,"path":"gender","instance":"String","validators":[],"getters":[],"setters":[],"_presplitPath":["gender"],"options":{},"_index":null},"is_deleted":{"path":"is_deleted","instance":"Boolean","validators":[],"getters":[],"setters":[],"_presplitPath":["is_deleted"],"options":{"default":false},"_index":null,"defaultValue":false},"_id":{"path":"_id","instance":"ObjectID","validators":[],"getters":[],"setters":[null],"_presplitPath":["_id"],"options":{"auto":true,"type":"ObjectId"},"_index":null}},"aliases":{},"subpaths":{},"virtuals":{},"singleNestedPaths":{},"nested":{},"inherits":{},"callQueue":[],"_indexes":[],"methods":{},"methodOptions":{},"statics":{},"tree":{"user_name":{"unique":true,"required":true},"is_deleted":{"default":false},"_id":{"auto":true,"type":"ObjectId"}},"query":{},"childSchemas":[],"plugins":[],"$id":1,"mapPaths":[],"s":{"hooks":{"_pres":{},"_posts":{}}},"_userProvidedOptions":{},"options":{"typePojoToMixed":true,"typeKey":"type","id":true,"noVirtualId":false,"_id":true,"noId":false,"validateBeforeSave":true,"read":null,"shardKey":null,"autoIndex":null,"minimize":true,"discriminatorKey":"__t","optimisticConcurrency":false,"versionKey":"__v","capped":false,"bufferCommands":true,"strictQuery":false,"strict":true}}
+info: 2021-07-23T08:16:26.207Z: 	Server is listening on : 3000
+info: 2021-07-23T08:22:10.700Z: 	Server is listening on : 3000
+info: 2021-07-23T08:22:10.716Z: 	Successfully connected to the database
+info: 2021-07-23T08:22:41.130Z: 	Incoming API URL ::: /api/employee
+info: 2021-07-23T08:22:41.130Z: 	Incoming Request type ::: GET
+info: 2021-07-23T08:22:41.131Z: 	Inside the employee controller file
+info: 2021-07-23T08:22:41.131Z: 	Inside the Employee service file
+info: 2021-07-23T08:22:41.131Z: 	Retriving the employee details from database
+info: 2021-07-23T08:22:41.146Z: 	Employee data ::: { is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 }
+info: 2021-07-23T08:22:41.148Z: 	Response received from service file
+info: 2021-07-23T08:22:41.149Z: 	final response :::{ is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 }
+info: 2021-07-23T08:23:57.444Z: 	Server is listening on : 3000
+info: 2021-07-23T08:23:57.461Z: 	Successfully connected to the database
+[32minfo[39m: 2021-07-23T08:28:16.197Z: 	Server is listening on : 3000
+[32minfo[39m: 2021-07-23T08:28:16.215Z: 	Successfully connected to the database
+[32minfo[39m: 2021-07-23T08:28:34.460Z: 	Server is listening on : 3000
+[32minfo[39m: 2021-07-23T08:28:34.479Z: 	Successfully connected to the database
+[32minfo[39m: 2021-07-23T08:29:39.208Z: 	Server is listening on : 3000
+[32minfo[39m: 2021-07-23T08:29:39.230Z: 	Successfully connected to the database
+[32minfo[39m: 2021-07-23T08:31:06.614Z: 	Server is listening on : 3000
+[32minfo[39m: 2021-07-23T08:31:06.632Z: 	Successfully connected to the database
+[32minfo[39m: 2021-07-23T02:01:41.4141 PM: 	Server is listening on : 3000
+[32minfo[39m: 2021-07-23T02:01:41.4141 PM: 	Successfully connected to the database
+info: 2021-07-23T02:02:05.055 PM: 	Server is listening on : 3000
+info: 2021-07-23T02:02:05.055 PM: 	Successfully connected to the database
+2021-07-23T02:05:10.1010 PM:info:	Server is listening on : 3000
+2021-07-23T02:05:10.1010 PM:info:	Successfully connected to the database
+2021-07-23T02:05:39.3939 PM:info:	Incoming API URL ::: /api/employee
+2021-07-23T02:05:39.3939 PM:info:	Incoming Request type ::: GET
+2021-07-23T02:05:39.3939 PM:info:	Inside the employee controller file
+2021-07-23T02:05:39.3939 PM:info:	Inside the Employee service file
+2021-07-23T02:05:39.3939 PM:info:	Retriving the employee details from database
+2021-07-23T02:05:39.3939 PM:info:	Employee data ::: { is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 }
+2021-07-23T02:05:39.3939 PM:info:	Response received from service file
+2021-07-23T02:05:39.3939 PM:info:	final response :::{ is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 }
+2021-07-23T02:12:32.3232 PM:info:	Server is listening on : 3000
+2021-07-23T02:12:32.3232 PM:info:	Successfully connected to the database
+2021-07-23T02:13:11.1111 PM:info:	Incoming API URL ::: /api/addemployee
+2021-07-23T02:13:11.1111 PM:info:	Incoming Request type ::: POST
+2021-07-23T02:13:11.1111 PM:info:	Inside the employee controller file
+2021-07-23T02:13:11.1111 PM:info:	Request body ::: {"firstname":"employee ","lastname":"D","usename":"employeeD","empId":4,"address":"chennai","phonenumber":9587678549,"gender":"Female"}
+2021-07-23T02:13:11.1111 PM:info:	Inside the Employee service file
+2021-07-23T02:13:37.3737 PM:info:	Incoming API URL ::: /api/addemployee
+2021-07-23T02:13:37.3737 PM:info:	Incoming Request type ::: POST
+2021-07-23T02:13:37.3737 PM:info:	Inside the employee controller file
+2021-07-23T02:13:37.3737 PM:info:	Request body ::: {"firstname":"employee ","lastname":"D","user_name":"employeeD","empId":4,"address":"chennai","phonenumber":9587678549,"gender":"Female"}
+2021-07-23T02:13:37.3737 PM:info:	Inside the Employee service file
+2021-07-23T02:13:48.4848 PM:info:	Incoming API URL ::: /api/addemployee
+2021-07-23T02:13:48.4848 PM:info:	Incoming Request type ::: POST
+2021-07-23T02:13:48.4848 PM:info:	Inside the employee controller file
+2021-07-23T02:13:48.4848 PM:info:	Request body ::: {"firstname":"employee ","lastname":"D","username":"employeeD","empId":4,"address":"chennai","phonenumber":9587678549,"gender":"Female"}
+2021-07-23T02:13:48.4848 PM:info:	Inside the Employee service file
+2021-07-23T02:13:48.4848 PM:info:	Employee post data inserted into Database
+2021-07-23T02:13:48.4848 PM:info:	Final Response ::: {"is_deleted":false,"_id":"60fa81446fe42b58a4672e51","first_name":"employee ","last_name":"D","user_name":"employeeD","emp_id":4,"phone_number":9587678549,"address":"chennai","gender":"Female","__v":0}
+2021-07-23T02:15:42.4242 PM:info:	Server is listening on : 3000
+2021-07-23T02:15:42.4242 PM:info:	Successfully connected to the database
+2021-07-23T02:15:50.5050 PM:info:	Incoming API URL ::: /api/addemployee
+2021-07-23T02:15:50.5050 PM:info:	Incoming Request type ::: POST
+2021-07-23T02:15:50.5050 PM:info:	Inside the employee controller file
+2021-07-23T02:15:50.5050 PM:info:	Request body ::: {"firstname":"employee ","lastname":"D","user_name":"employeeD","empId":4,"address":"chennai","phonenumber":9587678549,"gender":"Female"}
+2021-07-23T02:15:50.5050 PM:info:	Inside the Employee service file
+2021-07-23T02:15:50.5050 PM:error:	Error Occured while insterting data ::: employees validation failed: user_name: Path `user_name` is required.
+2021-07-23T02:16:05.055 PM:info:	Incoming API URL ::: /api/addemployee
+2021-07-23T02:16:05.055 PM:info:	Incoming Request type ::: POST
+2021-07-23T02:16:05.055 PM:info:	Inside the employee controller file
+2021-07-23T02:16:05.055 PM:info:	Request body ::: {"firstname":"employee ","lastname":"D","user_name":"employeeD","empId":4,"address":"chennai","phonenumber":9587678549,"gender":"Female"}
+2021-07-23T02:16:05.055 PM:info:	Inside the Employee service file
+2021-07-23T02:16:05.055 PM:error:	Error Occured while insterting data ::: employees validation failed: user_name: Path `user_name` is required.
+2021-07-23T02:23:35.3535 PM:info:	Server is listening on : 3000
+2021-07-23T02:23:35.3535 PM:info:	Successfully connected to the database
+2021-07-23T02:24:31.3131 PM:info:	Incoming API URL ::: /api/addemployee
+2021-07-23T02:24:31.3131 PM:info:	Incoming Request type ::: POST
+2021-07-23T02:24:31.3131 PM:info:	Inside the employee controller file
+2021-07-23T02:24:31.3131 PM:info:	Request body ::: {"firstname":"employee ","lastname":"E","username":"employeeE","empId":5,"address":"chennai","phonenumber":7845673452,"gender":"Female"}
+2021-07-23T02:24:31.3131 PM:info:	Inside the Employee service file
+2021-07-23T02:24:31.3131 PM:info:	Employee post data inserted into Database
+2021-07-23T02:24:31.3131 PM:info:	Response received from service file
+2021-07-23T02:24:31.3131 PM:info:	Final Response ::: {"is_deleted":false,"_id":"60fa83c7f3a9be17d8e2a85d","first_name":"employee ","last_name":"E","user_name":"employeeE","emp_id":5,"phone_number":7845673452,"address":"chennai","gender":"Female","__v":0}
+2021-07-23T02:25:26.2626 PM:info:	Incoming API URL ::: /api/employee
+2021-07-23T02:25:26.2626 PM:info:	Incoming Request type ::: GET
+2021-07-23T02:25:26.2626 PM:info:	Inside the employee controller file
+2021-07-23T02:25:26.2626 PM:info:	Inside the Employee service file
+2021-07-23T02:25:26.2626 PM:info:	Retriving the employee details from database
+2021-07-23T02:25:26.2626 PM:info:	Employee data ::: { is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa81446fe42b58a4672e51,
+  first_name: 'employee ',
+  last_name: 'D',
+  user_name: 'employeeD',
+  emp_id: 4,
+  phone_number: 9587678549,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa83c7f3a9be17d8e2a85d,
+  first_name: 'employee ',
+  last_name: 'E',
+  user_name: 'employeeE',
+  emp_id: 5,
+  phone_number: 7845673452,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 }
+2021-07-23T02:25:26.2626 PM:info:	Response received from service file
+2021-07-23T02:25:26.2626 PM:info:	final response :::{ is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa81446fe42b58a4672e51,
+  first_name: 'employee ',
+  last_name: 'D',
+  user_name: 'employeeD',
+  emp_id: 4,
+  phone_number: 9587678549,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa83c7f3a9be17d8e2a85d,
+  first_name: 'employee ',
+  last_name: 'E',
+  user_name: 'employeeE',
+  emp_id: 5,
+  phone_number: 7845673452,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 }
+2021-07-23T02:26:27.2727 PM:info:	Incoming API URL ::: /api/updateemployee
+2021-07-23T02:26:27.2727 PM:info:	Incoming Request type ::: POST
+2021-07-23T02:26:27.2727 PM:info:	Inside the employee controller file
+2021-07-23T02:26:27.2727 PM:info:	Request body for Update ::: {"_id":"60fa81446fe42b58a4672e51","emp_id":3}
+2021-07-23T02:26:27.2727 PM:info:	Response received from service file
+2021-07-23T02:26:27.2727 PM:info:	Final Response ::: {"is_deleted":false,"_id":"60fa81446fe42b58a4672e51","first_name":"employee ","last_name":"D","user_name":"employeeD","emp_id":3,"phone_number":9587678549,"address":"chennai","gender":"Female","__v":0}
+2021-07-23T02:26:59.5959 PM:info:	Incoming API URL ::: /api/employee
+2021-07-23T02:26:59.5959 PM:info:	Incoming Request type ::: GET
+2021-07-23T02:26:59.5959 PM:info:	Inside the employee controller file
+2021-07-23T02:26:59.5959 PM:info:	Inside the Employee service file
+2021-07-23T02:26:59.5959 PM:info:	Retriving the employee details from database
+2021-07-23T02:27:00.000 PM:info:	Employee data ::: { is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa81446fe42b58a4672e51,
+  first_name: 'employee ',
+  last_name: 'D',
+  user_name: 'employeeD',
+  emp_id: 3,
+  phone_number: 9587678549,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa83c7f3a9be17d8e2a85d,
+  first_name: 'employee ',
+  last_name: 'E',
+  user_name: 'employeeE',
+  emp_id: 5,
+  phone_number: 7845673452,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 }
+2021-07-23T02:27:00.000 PM:info:	Response received from service file
+2021-07-23T02:27:00.000 PM:info:	final response :::{ is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa81446fe42b58a4672e51,
+  first_name: 'employee ',
+  last_name: 'D',
+  user_name: 'employeeD',
+  emp_id: 3,
+  phone_number: 9587678549,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa83c7f3a9be17d8e2a85d,
+  first_name: 'employee ',
+  last_name: 'E',
+  user_name: 'employeeE',
+  emp_id: 5,
+  phone_number: 7845673452,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 }
+2021-07-23T02:27:29.2929 PM:info:	Incoming API URL ::: /api/updateemployee
+2021-07-23T02:27:29.2929 PM:info:	Incoming Request type ::: POST
+2021-07-23T02:27:29.2929 PM:info:	Inside the employee controller file
+2021-07-23T02:27:29.2929 PM:info:	Request body for Update ::: {"_id":"60fa83c7f3a9be17d8e2a85d","emp_id":4}
+2021-07-23T02:27:29.2929 PM:info:	Response received from service file
+2021-07-23T02:27:29.2929 PM:info:	Final Response ::: {"is_deleted":false,"_id":"60fa83c7f3a9be17d8e2a85d","first_name":"employee ","last_name":"E","user_name":"employeeE","emp_id":4,"phone_number":7845673452,"address":"chennai","gender":"Female","__v":0}
+2021-07-23T02:29:19.1919 PM:info:	Server is listening on : 3000
+2021-07-23T02:29:19.1919 PM:info:	Successfully connected to the database
+2021-07-23T02:29:22.2222 PM:info:	Incoming API URL ::: /api/employee
+2021-07-23T02:29:22.2222 PM:info:	Incoming Request type ::: GET
+2021-07-23T02:29:22.2222 PM:info:	Inside the employee controller file
+2021-07-23T02:29:22.2222 PM:info:	Inside the Employee service file
+2021-07-23T02:29:22.2222 PM:info:	Retriving the employee details from database
+2021-07-23T02:29:22.2222 PM:info:	Employee data ::: { is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa81446fe42b58a4672e51,
+  first_name: 'employee ',
+  last_name: 'D',
+  user_name: 'employeeD',
+  emp_id: 3,
+  phone_number: 9587678549,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa83c7f3a9be17d8e2a85d,
+  first_name: 'employee ',
+  last_name: 'E',
+  user_name: 'employeeE',
+  emp_id: 4,
+  phone_number: 7845673452,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 }
+2021-07-23T02:29:22.2222 PM:info:	Response received from service file
+2021-07-23T02:29:22.2222 PM:info:	final response :::{ is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa81446fe42b58a4672e51,
+  first_name: 'employee ',
+  last_name: 'D',
+  user_name: 'employeeD',
+  emp_id: 3,
+  phone_number: 9587678549,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa83c7f3a9be17d8e2a85d,
+  first_name: 'employee ',
+  last_name: 'E',
+  user_name: 'employeeE',
+  emp_id: 4,
+  phone_number: 7845673452,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 }
+2021-07-23T02:29:59.5959 PM:info:	Server is listening on : 3000
+2021-07-23T02:29:59.5959 PM:info:	Successfully connected to the database
+2021-07-23T02:30:02.022 PM:info:	Incoming API URL ::: /api/deleteemployee/60fa83c7f3a9be17d8e2a85d
+2021-07-23T02:30:02.022 PM:info:	Incoming Request type ::: POST
+2021-07-23T02:30:02.022 PM:info:	Inside the employee controller file
+2021-07-23T02:30:02.022 PM:info:	 Request params to delete ::: "60fa83c7f3a9be17d8e2a85d"
+2021-07-23T02:30:02.022 PM:info:	Response received from service file
+2021-07-23T02:30:02.022 PM:info:	Deleted Employee details ::: {"is_deleted":true,"_id":"60fa83c7f3a9be17d8e2a85d","first_name":"employee ","last_name":"E","user_name":"employeeE","emp_id":4,"phone_number":7845673452,"address":"chennai","gender":"Female","__v":0}
+2021-07-23T03:15:44.4444 PM:info:	Server is listening on : 3000
+2021-07-23T03:15:44.4444 PM:info:	Successfully connected to the database
+2021-07-23T03:16:00.000 PM:info:	Incoming API URL ::: /api/employee
+2021-07-23T03:16:00.000 PM:info:	Incoming Request type ::: GET
+2021-07-23T03:16:00.000 PM:info:	Inside the employee controller file
+2021-07-23T03:16:00.000 PM:info:	Inside the Employee service file
+2021-07-23T03:16:00.000 PM:info:	Retriving the employee details from database
+2021-07-23T03:16:00.000 PM:info:	Employee data ::: { is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa81446fe42b58a4672e51,
+  first_name: 'employee ',
+  last_name: 'D',
+  user_name: 'employeeD',
+  emp_id: 3,
+  phone_number: 9587678549,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 }
+2021-07-23T03:16:00.000 PM:info:	Response received from service file
+2021-07-23T03:16:00.000 PM:info:	final response :::{ is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa81446fe42b58a4672e51,
+  first_name: 'employee ',
+  last_name: 'D',
+  user_name: 'employeeD',
+  emp_id: 3,
+  phone_number: 9587678549,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 }
+2021-07-23T03:34:31.3131 PM:info:	Server is listening on : 3000
+2021-07-23T03:34:31.3131 PM:info:	Successfully connected to the database
+2021-07-23T03:34:55.5555 PM:info:	Incoming API URL ::: /api/addemployee
+2021-07-23T03:34:55.5555 PM:info:	Incoming Request type ::: POST
+2021-07-23T03:34:55.5555 PM:info:	Inside the employee controller file
+2021-07-23T03:34:55.5555 PM:info:	Request body ::: {"firstname":"employee ","lastname":"E","user_name":"employeeE","empId":5,"address":"chennai","phonenumber":7845673452,"gender":"Female"}
+2021-07-23T03:34:55.5555 PM:info:	Inside the Employee service file
+2021-07-23T03:34:55.5555 PM:error:	Error Occured while insterting data ::: employees validation failed: user_name: Path `user_name` is required.
+2021-07-23T03:38:08.088 PM:info:	Server is listening on : 3000
+2021-07-23T03:38:08.088 PM:info:	Successfully connected to the database
+2021-07-23 T 03 : 41 :47.4747:info:	Server is listening on : 3000
+2021-07-23 T 03 : 41 :47.4747:info:	Successfully connected to the database
+2021-07-23 15:44:31:info:	Server is listening on : 3000
+2021-07-23 15:44:31:info:	Successfully connected to the database
+2021-07-23 15:45:16:info:	Server is listening on : 3000
+2021-07-23 15:45:16:info:	Successfully connected to the database
+2021-07-23 15:45:31:info:	Server is listening on : 3000
+2021-07-23 15:45:31:info:	Successfully connected to the database
+2021-07-23 15:45:48:info:	Server is listening on : 3000
+2021-07-23 15:45:48:info:	Successfully connected to the database
+2021-07-23 15:46:55:info:	Server is listening on : 3000
+2021-07-23 15:46:55:info:	Successfully connected to the database
+2021-07-23 15:49:29:info:	Server is listening on : 3000
+2021-07-23 15:49:29:info:	Successfully connected to the database
+2021-07-23 15:50:44:info:	Server is listening on : 3000
+2021-07-23 15:50:44:info:	Successfully connected to the database
+2021-07-23 15:51:23:info:	Server is listening on : 3000
+2021-07-23 15:51:23:info:	Successfully connected to the database
+2021-07-23 T 17:01:05:info:	Server is listening on : 3000
+2021-07-23 T 17:01:05:info:	Successfully connected to the database
+2021-07-23 T 17:01:38:info:	Incoming API URL ::: /api/employee
+2021-07-23 T 17:01:38:info:	Incoming Request type ::: GET
+2021-07-23 T 17:01:38:info:	Inside the employee controller file
+2021-07-23 T 17:01:38:info:	Inside the Employee service file
+2021-07-23 T 17:01:38:info:	Retriving the employee details from database
+2021-07-23 T 17:01:38:info:	Employee data ::: { is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa81446fe42b58a4672e51,
+  first_name: 'employee ',
+  last_name: 'D',
+  user_name: 'employeeD',
+  emp_id: 3,
+  phone_number: 9587678549,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 }
+2021-07-23 T 17:01:38:info:	Response received from service file
+2021-07-23 T 17:01:38:info:	final response :::{ is_deleted: false,
+  _id: 60fa4391e9dd7c4fe8e0663d,
+  first_name: 'employee ',
+  last_name: 'A',
+  user_name: 'employeeA',
+  emp_id: 1,
+  phone_number: 123456,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa4b6854283c0970eb0f9a,
+  first_name: 'employee ',
+  user_name: 'employeeB',
+  emp_id: 2,
+  phone_number: 123456789,
+  address: 'chennai',
+  gender: 'male',
+  __v: 0 },{ is_deleted: false,
+  _id: 60fa81446fe42b58a4672e51,
+  first_name: 'employee ',
+  last_name: 'D',
+  user_name: 'employeeD',
+  emp_id: 3,
+  phone_number: 9587678549,
+  address: 'chennai',
+  gender: 'Female',
+  __v: 0 }
+2021-07-23 T 17:04:38:info:	Server is listening on : 3000
+2021-07-23 T 17:04:38:info:	Successfully connected to the database
+2021-07-23 T 17:05:12:info:	Server is listening on : 3000
+2021-07-23 T 17:05:12:info:	Successfully connected to the database
+2021-07-23 T 17:05:41:info:	Server is listening on : 3000
+2021-07-23 T 17:05:41:info:	Successfully connected to the database
+2021-07-23 T 17:15:26:info:	Server is listening on : 3000
+2021-07-23 T 17:15:26:info:	Successfully connected to the database
+2021-07-23 T 17:15:30:info:	Incoming API URL ::: /api/employee
+2021-07-23 T 17:15:30:info:	Incoming Request type ::: GET
+2021-07-23 T 17:15:30:info:	Get employee details
+2021-07-23 T 17:25:56:info:	Server is listening on : 3000
+2021-07-23 T 17:25:56:info:	Successfully connected to the database
+2021-07-23 T 17:51:30:info:	Server is listening on : 3000
+2021-07-23 T 17:51:30:info:	Successfully connected to the database
